@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+     <key>DeveloperToolsAvailability</key>
+     <integer>1</integer>
+     <AllowDeletingBrowserHistory>
+     <true/>
+     <key>CloudPrintProxyEnabled</key>
+     <true/>
+     <key>CloudPrintSubmitEnabled</key>
+     <true/>
+     <key>DefaultGeolocationSetting</key>
+     <integer>3</integer>
+     <key>IncognitoModeAvailability</key>
+     <integer>1</integer>
+     <key>QuicAllowed</key>
+     <true/>
+     <key>TaskManagerEndProcessEnabled</key>
+     <true/>
+     <key>URLBlocklist</key>
+     <array>
+          <string>speedtest.com</string>
+     </array>
+     <key>URLBlacklist</key>
+     <array>
+          <string>speedyfast.com</string>
+     </array>
+     <key>BlockExternalExtensions</key>
+     <false/>
+     <key>ExtensionInstallAllowlist</key>
+     <array>
+     </array>
+     <key>ExtensionInstallBlocklist</key>
+     <array>
+          <string>iheobagjkfklnlikgihanlhcddjoihkg</string>
+          <string>cgbbbjmgdpnifijconhamggjehlamcif</string>
+     </array>
+     <key>ExtensionInstallForcelist</key>
+     <array>
+     </array>
+     <key>ExtensionInstallSources</key>
+     <array>
+     </array>
+     <key>ExtensionSettings</key>
+</dict>
+</plist>
